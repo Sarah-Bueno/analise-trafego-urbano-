@@ -33,3 +33,11 @@ Investigar padrões relacionados ao fluxo de veículos, evolução temporal e re
 ## Status
 
 Projeto concluído como estudo inicial para portfólio em Ciência de Dados e Mobilidade Urbana.
+
+## Principais Resultados
+
+- Dataset com 5.529 registros analisados
+- Período histórico entre 1993 e 2019
+- Identificação das regiões com maior volume de tráfego
+- Análise da evolução temporal do fluxo de veículos
+- Aplicação de consultas SQL para exploração dos dados
