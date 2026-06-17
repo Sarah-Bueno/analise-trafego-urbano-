@@ -10,6 +10,7 @@ Investigar padrões relacionados ao fluxo de veículos, evolução temporal e re
 
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - SQL
 - DBeaver
@@ -18,7 +19,7 @@ Investigar padrões relacionados ao fluxo de veículos, evolução temporal e re
 ## Arquivos
 
 - `trafego.ipynb`: análise exploratória principal
-- `DataFrame.ipynb`: estudo introdutório sobre DataFrames
+- `fluxo_veiculos_numpy.ipynb`: estudo introdutório sobre DataFrames
 - `analise_trafego.sql`: consultas SQL aplicadas ao dataset
 
 ## Etapas realizadas
@@ -37,6 +38,7 @@ Projeto concluído como estudo inicial para portfólio em Ciência de Dados e Mo
 ## Principais Resultados
 
 - Dataset com 5.529 registros analisados
+- Simulação Simplificada de Fluxo de Veículos com NumPy
 - Período histórico entre 1993 e 2019
 - Identificação das regiões com maior volume de tráfego
 - Análise da evolução temporal do fluxo de veículos
