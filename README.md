@@ -1,6 +1,6 @@
 # Análise Exploratória de Dados de Tráfego Urbano
 
-Este projeto apresenta uma análise exploratória de dados de tráfego urbano utilizando Python, Pandas, Matplotlib e SQL.
+Este projeto apresenta uma análise exploratória de dados de tráfego urbano utilizando Python, Pandas, NumPy, Matplotlib e SQL.
 
 ## Objetivo
 
